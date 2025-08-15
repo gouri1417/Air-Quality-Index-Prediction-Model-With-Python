@@ -37,8 +37,6 @@ The dataset contains:
 
 ---
 
-## 🚀 Installation & How to Run
-
-1. **Clone the repository**
+## 🚀  **Clone the repository**
 
 git clone https://github.com/gouri1417/Air-Quality-Index-Prediction-Model-With-Python.git
