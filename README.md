@@ -41,4 +41,4 @@ The dataset contains:
 
 1. **Clone the repository**
 
-git clone 
+git clone https://github.com/gouri1417/Air-Quality-Index-Prediction-Model-With-Python.git
